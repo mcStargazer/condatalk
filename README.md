@@ -1,5 +1,5 @@
 # condatalk
-Support for OKC Python User's Group Talk 2015-11-11. Talk entitled, Anaconda/Conda: A platform for replicable science with Python and “The Others”.
+Support for OKC Python User's Group 2015-11-11 talk entitled, Anaconda/Conda: A platform for replicable science with Python and “The Others”.
 
 Useful links for exploring Anaconda/Miniconda/Conda are as follows, and I quote:
 * [Installation](http://bit.ly/condaquickinstall)
