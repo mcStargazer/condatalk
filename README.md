@@ -4,7 +4,7 @@ Code to support the OKC Python User's Group 2015-11-11 talk entitled, **_Anacond
 Commandline Instructions for Windows:<br>
 0. git clone https://github.com/mcStargazer/condatalk.git<br>
 1. cd condatalk<br>
-2. python tryimport.py
+2. python tryimport.py<br>
 3. conda env create -n condatalk -f condatalk_windows.yml<br>
 4. activate condatalk<br>
 5. python tryimport.py
@@ -12,7 +12,7 @@ Commandline Instructions for Windows:<br>
 Commandline Instructions for Linux:<br>
 0. git clone https://github.com/mcStargazer/condatalk.git<br>
 1. cd condatalk<br>
-2. python tryimport.py
+2. python tryimport.py<br>
 3. conda env create -n condatalk -f condatalk_linux.yml<br>
 4. source activate condatalk<br>
 5. python tryimport.py
