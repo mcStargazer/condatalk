@@ -1,5 +1,5 @@
 # condatalk
-Support for OKC Python User's Group 2015-11-11 talk entitled, Anaconda/Conda: A platform for replicable science with Python and “The Others”.
+Code to support the OKC Python User's Group 2015-11-11 talk entitled, **_Anaconda/Conda: A platform for replicable science with Python and “The Others”._**
 
 Instructions:<br>
 1. git clone https://github.com/mcStargazer/condatalk.git<br>
