@@ -1,0 +1,21 @@
+name: C:\Users\Matthew\Miniconda2\envs\testA
+dependencies:
+- msvc_runtime=1.0.1=vc9_0
+- numpy=1.10.1=py27_0
+- pandas=0.17.0=np110py27_0
+- patsy=0.4.0=np110py27_0
+- pip=7.1.2=py27_0
+- python=2.7.10=4
+- python-dateutil=2.4.2=py27_0
+- pytz=2015.7=py27_0
+- quandl=2.8.9=py27_0
+- requests=2.8.1=py27_0
+- scipy=0.16.0=np110py27_0
+- setuptools=18.4=py27_0
+- six=1.10.0=py27_0
+- statsmodels=0.6.1=np110py27_0
+- wheel=0.26.0=py27_1
+- pip:
+  - googlefinance==0.7
+  - pyhoofinance==0.1.1
+
